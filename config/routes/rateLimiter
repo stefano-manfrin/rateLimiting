@@ -1,0 +1,2 @@
+GET:/api/v1/hello:5/60
+POST:/api/v1/hello:3/60
